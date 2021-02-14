@@ -15,20 +15,20 @@ const speed = require('performance-now');
 const apivhtear = 'apikey';
 const apibarbar = 'apikey';
 const tobzkey = 'apikey';
-const BotName = 'Lexa';
+const BotName = 'zxbot|APRI';
 const wa = 'https://chat.whatsapp.com/FQNUK5VFD68GZaB0UlXjst';
 const eror = 'Info fitur Error';
-const ow = 'Mrf.zvx';
-const nomorowner = '082223014661';
-const ovo = '082223014661';
-const pulsa = '082223014661';
-const dana = '082223014661';
-const instagram = 'http://www.instagram.com/mrf.zvx';
+const ow = 'apriantokeristian';
+const nomorowner = '082191563771';
+const ovo = '~';
+const pulsa = '082191563771';
+const dana = '082191563771';
+const instagram = '-';
 const aktif = '08:00 - 22:00';
 const vcard = 'BEGIN:VCARD\n'
   + 'VERSION:3.0\n'
-  + 'FN:Mrf.zvx\n' // Nama kamu
-  + 'ORG:Lexa;\n' // Nama bot
+  + 'FN:Mrf.zvx\n' // apriantokeristian
+  + 'ORG:Lexa;\n' // zxbot|APRI
   + 'TEL;type=CELL;type=VOICE;waid=6282223014661:+62 822-2301-4661\n' //Nomor whatsapp kamu
   + 'END:VCARD'
 //
